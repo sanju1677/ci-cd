@@ -1,5 +1,0 @@
-D:\sample-code-for-ci-cd\sm-app\sm-wcf\bin\sm-wcf.dll.config
-D:\sample-code-for-ci-cd\sm-app\sm-wcf\bin\sm-wcf.dll
-D:\sample-code-for-ci-cd\sm-app\sm-wcf\bin\sm-wcf.pdb
-D:\sample-code-for-ci-cd\sm-app\sm-wcf\obj\Debug\sm-wcf.dll
-D:\sample-code-for-ci-cd\sm-app\sm-wcf\obj\Debug\sm-wcf.pdb

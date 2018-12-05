@@ -1,2 +1,6 @@
 /packages
 /*.suo
+/sm-app/obj
+/sm-app/bin
+/sm-wcf/bin
+/sm-wcf/obj
