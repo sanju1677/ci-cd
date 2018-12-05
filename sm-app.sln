@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sm-app", "sm-app\sm-app.csproj", "{B8436002-F7FE-4723-AAA1-BCABCE3897FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sm-wcf", "sm-wcf\sm-wcf.csproj", "{F27C3940-A229-4EFE-B679-226925DED6B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8436002-F7FE-4723-AAA1-BCABCE3897FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8436002-F7FE-4723-AAA1-BCABCE3897FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8436002-F7FE-4723-AAA1-BCABCE3897FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8436002-F7FE-4723-AAA1-BCABCE3897FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27C3940-A229-4EFE-B679-226925DED6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27C3940-A229-4EFE-B679-226925DED6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27C3940-A229-4EFE-B679-226925DED6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27C3940-A229-4EFE-B679-226925DED6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
